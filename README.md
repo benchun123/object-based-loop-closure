@@ -5,8 +5,8 @@ none
 
 Results
 -
-![](https://github.com/benchun123/object-based-loop-closure.git/example/fig_6_loop_correction.JPG)
-![](https://github.com/benchun123/object-based-loop-closure.git/example/20220314_ustc_02.mp4)
+![](https://github.com/benchun123/object-based-loop-closure/blob/master/example/fig_6_loop_correction.JPG)
+![](https://github.com/benchun123/object-based-loop-closure/blob/master/example/20220314_ustc_02.mp4)
 
 # 1. Prerequisites #
 * Ubuntu
